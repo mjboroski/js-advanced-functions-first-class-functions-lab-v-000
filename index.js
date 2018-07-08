@@ -18,10 +18,10 @@ function fareDoubler(drivers, ){
 
 }
 
-function returnFirstTwoDrivers(drivers, ){
+function fareTripler(drivers, ){
 
 }
 
-function returnFirstTwoDrivers(drivers, ){
+function selectDifferentDrivers(drivers, ){
 
 }
