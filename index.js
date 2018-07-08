@@ -14,7 +14,7 @@ function createFareMultiplier(drivers, ){
 
 }
 
-function returnFirstTwoDrivers(drivers, ){
+function fareDoubler(drivers, ){
 
 }
 
